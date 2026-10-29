@@ -1,0 +1,29 @@
+streamlit>=1.40.0
+sqlalchemy>=2.0
+python-dotenv>=1.0.1
+bcrypt>=4.1.0
+email-validator>=2.1.0
+requests>=2.31.0
+pandas>=2.1.0
+plotly>=5.18.0
+pymysql>=1.1.0
+folium>=0.16.0
+streamlit-folium>=0.22.0
+streamlit-geolocation>=0.0.10
+streamlit[auth]>=1.42.0
+Authlib>=1.3.2
+streamlit>=1.40.0
+sqlalchemy>=2.0
+python-dotenv>=1.0.1
+bcrypt>=4.1.0
+email-validator>=2.1.0
+requests>=2.31.0
+pandas>=2.1.0
+plotly>=5.18.0
+pymysql>=1.1.0
+folium>=0.16.0
+streamlit-folium>=0.22.0
+streamlit-geolocation>=0.0.10
+reportlab        # PDF bills
+openpyxl         # Excel export
+qrcode[pil]      # UPI QR code
